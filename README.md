@@ -1,0 +1,3 @@
+# Python
+ Journey 
+!!Hello, I just thought would be nice to share my lessons in Python...
