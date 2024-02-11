@@ -1,4 +1,4 @@
-This project ims to decode the following text using the urllib and the with function.
+This project aims to decode the following text using the urllib and the with function.
 It was the best of times
 it was the worst of times
 it was the age of wisdom
